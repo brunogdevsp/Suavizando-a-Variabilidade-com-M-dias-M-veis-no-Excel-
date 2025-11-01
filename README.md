@@ -52,7 +52,7 @@ Ao comparar as linhas, é evidente que a **MM14 é mais suave** que a MM7, e amb
 ## 📚 Créditos e Referências
 
 * **Curso Base:** Ciência de Dados para Negócios com Excel, por Fernando Amaral (Udemy).
-* **Instituição:** UNINTER - [Seu Curso/Faculdade]
+* **Instituição:** UNINTER - Tecnologia em ciência de dados
 
 ---
-_Desenvolvido por [Seu Nome] | Aluno de Ciência de Dados_
+_Desenvolvido por Bruno Garcia | Aluno de Ciência de Dados_
